@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.ipynb_checkpoints
+*.DS_Store
+*.egg-info/
+*.h5
+*.pth
+*.pt
+data/processed/
+data/raw/
+models/saved_models/
+venv/
+.env
